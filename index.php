@@ -4,7 +4,8 @@
  * Plugin URI: https://aminaskarix.ir
  * Description: افزونه برای ارسال کاربران ثبت‌نام شده وردپرس و ووکامرس به پرفکس CRM.
  * Version: 1.0.0
- * Author: M.Amin Askari
+ * Author: M. Amin Askari
+ * Copyright (c) 2025 M. Amin Askari
  * Author URI: https://aminaskarix.ir
  */
 
